@@ -1,4 +1,4 @@
-name: example
-replicas: 5
+name: nginx-challenge
+replicas: 3
 annotations:
-  tested-by: Juan-Camacho
+  northflank.com/managed-by: api
