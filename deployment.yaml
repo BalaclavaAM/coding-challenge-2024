@@ -1,4 +1,4 @@
-name: "example"
-replicas: 3
+name: example
+replicas: 5
 annotations:
-  my-annotation: "hello world"
+  tested-by: Juan-Balaclava
