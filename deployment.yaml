@@ -2,3 +2,4 @@ name: nginx-challenge
 replicas: 3
 annotations:
   northflank.com/managed-by: api
+content: "<h1>¡Hola, Northflank! Mi API funciona.</h1>"
