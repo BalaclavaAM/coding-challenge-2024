@@ -1,4 +1,4 @@
 name: example
 replicas: 5
 annotations:
-  tested-by: Juan-Balaclava
+  tested-by: Juan-Camacho
